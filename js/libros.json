@@ -141,7 +141,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/sangreycenicas.jpeg"
+    "img": "assset/images/sangreycenicas.jpeg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/unreino.jpeg"
+    "img": "assset/images/unreino.jpeg"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/unacorona.jpeg"
+    "img": "assset/images/unacorona.jpeg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/unasombra.jpeg"
+    "img": "assset/images/unasombra.jpeg"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/dosReinas.jpeg"
+    "img": "assset/images/dosReinas.jpeg"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/unaLuz.jpeg"
+    "img": "assset/images/unaLuz.jpeg"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/unAlma.jpeg"
+    "img": "assset/images/unAlma.jpeg"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "genero": "Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/unFuego.jpeg"
+    "img": "assset/images/unFuego.jpeg"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "genero": "Fantasia",
     "editorial": "Planeta",
     "cantidad de libros": "2",
-    "img": "../assset/images/cambria.jpeg"
+    "img": "assset/images/cambria.jpeg"
   },
   {
     "id": 22,
@@ -231,7 +231,7 @@
     "genero": "Terror",
     "editorial": "Umbriel",
     "cantidad de libros": "1",
-    "img": "../assset/images/elRelato.jpeg"
+    "img": "assset/images/elRelato.jpeg"
   },
   {
     "id": 24,
@@ -240,7 +240,7 @@
     "genero": "Fantasia ",
     "editorial": "Plaza",
     "cantidad de libros": "7",
-    "img": "../assset/images/Juegodetronos.jpeg"
+    "img": "assset/images/Juegodetronos.jpeg"
   },
   {
     "id": 25,
@@ -249,7 +249,7 @@
     "genero": "Fantasia ",
     "editorial": "Plaza",
     "cantidad de libros": "7",
-    "img": "../assset/images/choquedereyes.jpeg"
+    "img": "assset/images/choquedereyes.jpeg"
   },
   {
     "id": 26,
@@ -258,7 +258,7 @@
     "genero": "Fantasia ",
     "editorial": "Plaza",
     "cantidad de libros": "7",
-    "img": "../assset/images/Tormentadeespadas.jpeg"
+    "img": "assset/images/Tormentadeespadas.jpeg"
   },
   {
     "id": 27,
@@ -294,7 +294,7 @@
     "genero": "Romantacy",
     "editorial": "Destino",
     "cantidad de libros": "2",
-    "img": "../assset/images/Seis Grullas.jpeg"
+    "img": "assset/images/Seis Grullas.jpeg"
   },
   {
     "id":31 ,
@@ -303,7 +303,7 @@
     "genero": "Romantacy",
     "editorial": "Destino",
     "cantidad de libros": "2",
-    "img": "../assset/images/LaPromesaDel.jpeg"
+    "img": "assset/images/LaPromesaDel.jpeg"
   },
   {
     "id": 32,
@@ -330,7 +330,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Umbriel",
     "cantidad de libros": "3 (solo 1 en español)",
-    "img": "../assset/images/el Lenguaje De La Magia.jpeg"
+    "img": "assset/images/el Lenguaje De La Magia.jpeg"
   },
   {
     "id": 35,
@@ -339,7 +339,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Umbriel",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/Vamps.jpeg"
+    "img": "assset/images/Vamps.jpeg"
   },
   {
     "id": 36,
@@ -348,7 +348,7 @@
     "genero": "Misterio",
     "editorial": "Umbriel",
     "cantidad de libros": "1",
-    "img": "../assset/images/La Profecía Del Desierto.jpeg"
+    "img": "assset/images/La Profecía Del Desierto.jpeg"
   },
   {
     "id": 37,
@@ -357,7 +357,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Montena",
     "cantidad de libros": "5",
-    "img": "../assset/images/oscuros.jpeg"
+    "img": "assset/images/oscuros.jpeg"
   },
   {
     "id": 38,
@@ -366,7 +366,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Montena",
     "cantidad de libros": "5",
-    "img": "../assset/images/oscuros2.jpeg"
+    "img": "assset/images/oscuros2.jpeg"
   },
   {
     "id": 39,
@@ -375,7 +375,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Montena",
     "cantidad de libros": "5",
-    "img": "../assset/images/oscuros3.jpeg"
+    "img": "assset/images/oscuros3.jpeg"
   },
   {
     "id": 40,
@@ -384,7 +384,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Montena",
     "cantidad de libros": "5",
-    "img": "../assset/images/oscuros4.jpeg"
+    "img": "assset/images/oscuros4.jpeg"
   },
   {
     "id": 41,
@@ -393,7 +393,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Montena",
     "cantidad de libros": "5",
-    "img": "../assset/images/oscuros5.jpeg"
+    "img": "assset/images/oscuros5.jpeg"
   },
   {
     "id": 42,
@@ -429,7 +429,7 @@
     "genero": "Distopico",
     "editorial": "VRVA",
     "cantidad de libros": "3",
-    "img": "../assset/images/Bluescreen.jpeg"
+    "img": "assset/images/Bluescreen.jpeg"
   },
   {
     "id": 46,
@@ -438,7 +438,7 @@
     "genero": "Distopico",
     "editorial": "VRVA",
     "cantidad de libros": "3",
-    "img": "../assset/images/Unos y ceros.jpeg"
+    "img": "assset/images/Unos y ceros.jpeg"
   },
   {
     "id": 47,
@@ -447,7 +447,7 @@
     "genero": "Distopico",
     "editorial": "VRVA",
     "cantidad de libros": "3",
-    "img": "../assset/images/Memoria.jpeg"
+    "img": "assset/images/Memoria.jpeg"
   },
   {
     "id": 48,
@@ -456,7 +456,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "2",
-    "img": "../assset/images/LA ULTIMA CAZADORA.jpeg"
+    "img": "assset/images/LA ULTIMA CAZADORA.jpeg"
   },
   {
     "id": 49,
@@ -465,7 +465,7 @@
     "genero": "Urban Fantasy",
     "editorial": "Puck",
     "cantidad de libros": "2",
-    "img": "../assset/images/La Única Elegida.jpeg"
+    "img": "assset/images/La Única Elegida.jpeg"
   },
   {
     "id": 50,
@@ -474,7 +474,7 @@
     "genero": "Fantasy",
     "editorial": "VRVA",
     "cantidad de libros": "2",
-    "img": "../assset/images/La Reina Impostora.jpeg"
+    "img": "assset/images/La Reina Impostora.jpeg"
   },
   {
     "id": 51,
@@ -483,7 +483,7 @@
     "genero": "Fantasy",
     "editorial": "VRVA",
     "cantidad de libros": "2",
-    "img": "../assset/images/La reina maldita.jpeg"
+    "img": "assset/images/La reina maldita.jpeg"
   }
 
 
