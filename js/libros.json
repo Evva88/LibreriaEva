@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harry Potter, y la priedra filosofal",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "../assset/images/piedra.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Harry Potter, y la camara de los secretos",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "assset/images/Harry Potter y la cámara secreta.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Harry Potter, y el prisionero de azkababn",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "assset/images/azkaba.jpeg"
+  },
+  {
+    "id": 4,
+    "nombre": "Harry Potter, y el caliz de fuego",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "assset/images/caliz.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Harry Potter, y orden del fenix",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "assset/images/orden.jpeg"
+  },
+  {
+    "id": 6,
+    "nombre": "Harry Potter, y el misterio del principe",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "assset/images/misterio.jpeg"
+  },
+  {
+    "id": 7,
+    "nombre": "Harry Potter, y las reliquias de la muerte",
+    "autor": "JJ Rowling",
+    "genero": "Fantasia ",
+    "editorial": "Salamandra",
+    "cantidad de libros": "7",
+    "img": "assset/images/delamuerte.jpeg"
+  },
+  {
+    "id": 8,
+    "nombre": "El Eco Del Destino",
+    "autor": "Iria G. Parente, Selene M. Pascuañ",
+    "genero": "Fantasy",
+    "editorial": "Molino",
+    "cantidad de libros": "sin data",
+    "img": "../assset/images/ecoDElDEstino.jpeg"
+  },
+  {
+    "id": 9,
+    "nombre": "Cuentos completos I",
+    "autor": "Edgar Allan Poe",
+    "genero": "Thriller spicologico",
+    "editorial": "Del Fondo",
+    "cantidad de libros": "3",
+    "img": "../assset/images/poe.jpeg"
+  },
+  {
+    "id": 10,
+    "nombre": "Cuentos Completos II",
+    "autor": "Edgar Allan Poe",
+    "genero": "Thriller spicologico",
+    "editorial": "Del Fondo",
+    "cantidad de libros": "3",
+    "img": "../assset/images/poe.jpeg"
+  },
+  {
+    "id": 11,
+    "nombre": "Poemas",
+    "autor": "Edgar Allan Poe",
+    "genero": "Thriller spicologico/Poemas",
+    "editorial": "Del Fondo",
+    "cantidad de libros": "3",
+    "img": "../assset/images/poe.jpeg"
+  },
+  {
+    "id": 12,
+    "nombre": "El Madrigal",
+    "autor": "Jorge Velli",
+    "genero": "Poemas",
+    "editorial": "Imprenta Rieffolo",
+    "cantidad de libros": "1",
+    "img": "../assset/images/magrigal.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Una Corte de Rosas yEspinas",
+    "autor": "Sarah j Maas",
+    "genero": "Romantacy",
+    "editorial": "Planeta",
+    "cantidad de libros": "5",
+    "img": "../assset/images/corteRosas.jpeg"
+  },
+  {
+    "id": 14,
+    "nombre": "Alas de Sangre",
+    "autor": "Rabecca Yarros",
+    "genero": "Romantacy",
+    "editorial": "Planeta",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/sangre.jpeg"
+  },
+  {
+    "id": 15,
+    "nombre": "Alas de Hierro",
+    "autor": "Rebecca Yarros",
+    "genero": "Romantacy",
+    "editorial": "Planeta",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/hierros.jpeg"
+  },
+  {
+    "id": 16,
+    "nombre": "De Sangre y Cenizas",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/sangreycenicas.jpeg"
+  },
+  {
+    "id": 17,
+    "nombre": "Un Reino de Carne y Fuego",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/unreino.jpeg"
+  },
+  {
+    "id": 18,
+    "nombre": "Una Corona de Huesos y Espinas",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/unacorona.jpeg"
+  },
+  {
+    "id": 19,
+    "nombre": "Una Sombra en las Brazas",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/unasombra.jpeg"
+  },
+  {
+    "id": 20,
+    "nombre": "La Guerra de las dos Reinas",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/dosReinas.jpeg"
+  },
+  {
+    "id": 21,
+    "nombre": "Una Luz en la Llama",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/unaLuz.jpeg"
+  },
+  {
+    "id": 22,
+    "nombre": "Un Alma de Ceniza y Sangre",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/unAlma.jpeg"
+  },
+  {
+    "id": 23,
+    "nombre": "Un Fuego en la Carne",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/unFuego.jpeg"
+  },
+  {
+    "id": 24,
+    "nombre": "Cambria, Los Guardianes I",
+    "autor": "Jazmin Riera",
+    "genero": "Fantasia",
+    "editorial": "Planeta",
+    "cantidad de libros": "2",
+    "img": "../assset/images/cambria.jpeg"
+  },
+  {
+    "id": 22,
+    "nombre": "Cambria, Los Guardianes II",
+    "autor": "Jazmin Riera",
+    "genero": "Fantacia",
+    "editorial": "Planeta",
+    "cantidad de libros": "2",
+    "img": "https://contentv2.tap-commerce.com//cover/large/9789504975700_1.jpg?id_com=717"
+  },
+  {
+    "id": 23,
+    "nombre": "El Relato del Monstruo",
+    "autor": "Shaun Hamill",
+    "genero": "Terror",
+    "editorial": "Umbriel",
+    "cantidad de libros": "1",
+    "img": "../assset/images/elRelato.jpeg"
+  },
+  {
+    "id": 24,
+    "nombre": "Juegos de Tronos, Cancion de Hielo y Fuego I",
+    "autor": "George RR Martin",
+    "genero": "Fantasia ",
+    "editorial": "Plaza",
+    "cantidad de libros": "7",
+    "img": "../assset/images/Juegodetronos.jpeg"
+  },
+  {
+    "id": 25,
+    "nombre": "Choque de Reyes, Cancion de Hielo y Fuego II",
+    "autor": "George RR Martin",
+    "genero": "Fantasia ",
+    "editorial": "Plaza",
+    "cantidad de libros": "7",
+    "img": "../assset/images/choquedereyes.jpeg"
+  },
+  {
+    "id": 26,
+    "nombre": "Tormenta de Espadas, Cancion de Hielo y Fuego III",
+    "autor": "George RR Martin",
+    "genero": "Fantasia ",
+    "editorial": "Plaza",
+    "cantidad de libros": "7",
+    "img": "../assset/images/Tormentadeespadas.jpeg"
+  },
+  {
+    "id": 27,
+    "nombre": "Festin de Cuervos, Cancion de Hielo y Fuego IV",
+    "autor": "George RR Martin",
+    "genero": "Fantasia ",
+    "editorial": "Plaza",
+    "cantidad de libros": "7",
+    "img": "https://m.media-amazon.com/images/I/A1Pq7Lpb0mL._SY425_.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Danza de Dragones, Cancion de Hielo y Fuego V",
+    "autor": "George RR Martin",
+    "genero": "Fantasia ",
+    "editorial": "Plaza",
+    "cantidad de libros": "7",
+    "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/d4/d2/d4d2bc8ddfa4bc0df3a79ad38ca15d47.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "El Caballero de los 7 Reinos, Precuela de cancion de Hielo y Fuego",
+    "autor": "George RR Martin",
+    "genero": "Fantasia ",
+    "editorial": "Plaza",
+    "cantidad de libros": "1",
+    "img": "https://www.penguinlibros.com/ar/1641169-thickbox_default/el-caballero-de-los-siete-reinos-cancion-de-hielo-y-fuego-0.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Seis Grullas",
+    "autor": "Elizabeth Lim",
+    "genero": "Romantacy",
+    "editorial": "Destino",
+    "cantidad de libros": "2",
+    "img": "../assset/images/Seis Grullas.jpeg"
+  },
+  {
+    "id":31 ,
+    "nombre": "La Promesa del Dragon",
+    "autor": "Elizabeth Lim",
+    "genero": "Romantacy",
+    "editorial": "Destino",
+    "cantidad de libros": "2",
+    "img": "../assset/images/LaPromesaDel.jpeg"
+  },
+  {
+    "id": 32,
+    "nombre": "La Cuidad Secreta",
+    "autor": "C.J Daugherty, Carina Rozenfeld",
+    "genero": "Fantasia ",
+    "editorial": "VRVA",
+    "cantidad de libros": "2",
+    "img": "https://vreditoras.com.ar//uploads/libros/848edc432807dc91e316df721b1cd9e6La_ciudad_secreta-TAPA-BAJA.jpg"
+  },
+  {
+    "id": 33,
+    "nombre": "EL Fuego Secreto",
+    "autor": "C.J Daugherty, Carina Rozenfeld",
+    "genero": "Fantasia",
+    "editorial": "VRVA",
+    "cantidad de libros": "2",
+    "img": "https://vreditoras.com.ar//uploads/libros/107acb05114ecd400e5f33b62d9362a4El_fuego_secreto-TAPA-BAJA.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "El Lenguaje de la Magia, Las Encorsetadoras",
+    "autor": "Cari Thomas",
+    "genero": "Urban Fantasy",
+    "editorial": "Umbriel",
+    "cantidad de libros": "3 (solo 1 en español)",
+    "img": "../assset/images/el Lenguaje De La Magia.jpeg"
+  },
+  {
+    "id": 35,
+    "nombre": "Vamps, Sangre Fresca",
+    "autor": "Nicole Arend",
+    "genero": "Urban Fantasy",
+    "editorial": "Umbriel",
+    "cantidad de libros": "a confirmar",
+    "img": "../assset/images/Vamps.jpeg"
+  },
+  {
+    "id": 36,
+    "nombre": "La Profecia del Desierto",
+    "autor": "Ana Ballabriga, David Zaplana",
+    "genero": "Misterio",
+    "editorial": "Umbriel",
+    "cantidad de libros": "1",
+    "img": "../assset/images/La Profecía Del Desierto.jpeg"
+  },
+  {
+    "id": 37,
+    "nombre": "Oscuros",
+    "autor": "Lauren Kate",
+    "genero": "Urban Fantasy",
+    "editorial": "Montena",
+    "cantidad de libros": "5",
+    "img": "../assset/images/oscuros.jpeg"
+  },
+  {
+    "id": 38,
+    "nombre": "Oscuros, EL Poder de las Sombras",
+    "autor": "Lauren Kate",
+    "genero": "Urban Fantasy",
+    "editorial": "Montena",
+    "cantidad de libros": "5",
+    "img": "../assset/images/oscuros2.jpeg"
+  },
+  {
+    "id": 39,
+    "nombre": "Oscuros, La Trampa del Amor",
+    "autor": "Lauren Kate",
+    "genero": "Urban Fantasy",
+    "editorial": "Montena",
+    "cantidad de libros": "5",
+    "img": "../assset/images/oscuros3.jpeg"
+  },
+  {
+    "id": 40,
+    "nombre": "Oscuros, La Eternidad y un Dia",
+    "autor": "Lauren Kate",
+    "genero": "Urban Fantasy",
+    "editorial": "Montena",
+    "cantidad de libros": "5",
+    "img": "../assset/images/oscuros4.jpeg"
+  },
+  {
+    "id": 41,
+    "nombre": "Oscuros, La Prmera Maldicion",
+    "autor": "Lauren Kate",
+    "genero": "Urban Fantasy",
+    "editorial": "Montena",
+    "cantidad de libros": "5",
+    "img": "../assset/images/oscuros5.jpeg"
+  },
+  {
+    "id": 42,
+    "nombre": "EL Cielo Ardiente, Los Elementales",
+    "autor": "Sherry Thomas",
+    "genero": "Fantasy",
+    "editorial": "VRVA",
+    "cantidad de libros": "3",
+    "img": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/625783.jpg"
+  },
+  {
+    "id": 43,
+    "nombre": "Las Aguas Indomitas, Los Elementales",
+    "autor": "Sherry Thomas",
+    "genero": "Fantasy",
+    "editorial": "VRVA",
+    "cantidad de libros": "3",
+    "img": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/637859.jpg"
+  },
+  {
+    "id": 44,
+    "nombre": "Las Alturas Inmortales, Los Elementales",
+    "autor": "Sherry Thomas",
+    "genero": "Fantasy",
+    "editorial": "VRVA",
+    "cantidad de libros": "3",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_625292-MLA28003016187_082018-O.webp"
+  },
+  {
+    "id": 45,
+    "nombre": "Blue Screen, El Mirador",
+    "autor": "Dan Wells",
+    "genero": "Distopico",
+    "editorial": "VRVA",
+    "cantidad de libros": "3",
+    "img": "../assset/images/Bluescreen.jpeg"
+  },
+  {
+    "id": 46,
+    "nombre": "Unos Y Ceros, El Mirador",
+    "autor": "Dan Wells",
+    "genero": "Distopico",
+    "editorial": "VRVA",
+    "cantidad de libros": "3",
+    "img": "../assset/images/Unos y ceros.jpeg"
+  },
+  {
+    "id": 47,
+    "nombre": "Memoria Activa, El Mirador",
+    "autor": "Dan Wells",
+    "genero": "Distopico",
+    "editorial": "VRVA",
+    "cantidad de libros": "3",
+    "img": "../assset/images/Memoria.jpeg"
+  },
+  {
+    "id": 48,
+    "nombre": "La Ultima Cazadora",
+    "autor": "Kiersten White",
+    "genero": "Urban Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "2",
+    "img": "../assset/images/LA ULTIMA CAZADORA.jpeg"
+  },
+  {
+    "id": 49,
+    "nombre": "La Unica Elegida",
+    "autor": "Kiersten White",
+    "genero": "Urban Fantasy",
+    "editorial": "Puck",
+    "cantidad de libros": "2",
+    "img": "../assset/images/La Única Elegida.jpeg"
+  },
+  {
+    "id": 50,
+    "nombre": "La Reina Impostora",
+    "autor": "Sarah Fine",
+    "genero": "Fantasy",
+    "editorial": "VRVA",
+    "cantidad de libros": "2",
+    "img": "../assset/images/La Reina Impostora.jpeg"
+  },
+  {
+    "id": 51,
+    "nombre": "La Reina Maldita",
+    "autor": "Sarah Fine",
+    "genero": "Fantasy",
+    "editorial": "VRVA",
+    "cantidad de libros": "2",
+    "img": "../assset/images/La reina maldita.jpeg"
+  }
+
+
+
+
+
+
+
+
+]
