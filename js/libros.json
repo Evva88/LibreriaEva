@@ -6,7 +6,7 @@
     "genero": "Fantasia ",
     "editorial": "Salamandra",
     "cantidad de libros": "7",
-    "img": "../assset/images/piedra.jpeg"
+    "img": "assset/images/piedra.jpeg"
   },
   {
     "id": 2,
@@ -69,7 +69,7 @@
     "genero": "Fantasy",
     "editorial": "Molino",
     "cantidad de libros": "sin data",
-    "img": "../assset/images/ecoDElDEstino.jpeg"
+    "img": "assset/images/ecoDElDEstino.jpeg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "genero": "Thriller spicologico",
     "editorial": "Del Fondo",
     "cantidad de libros": "3",
-    "img": "../assset/images/poe.jpeg"
+    "img": "assset/images/poe.jpeg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "genero": "Thriller spicologico",
     "editorial": "Del Fondo",
     "cantidad de libros": "3",
-    "img": "../assset/images/poe.jpeg"
+    "img": "assset/images/poe.jpeg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "genero": "Thriller spicologico/Poemas",
     "editorial": "Del Fondo",
     "cantidad de libros": "3",
-    "img": "../assset/images/poe.jpeg"
+    "img": "assset/images/poe.jpeg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "genero": "Poemas",
     "editorial": "Imprenta Rieffolo",
     "cantidad de libros": "1",
-    "img": "../assset/images/magrigal.jpg"
+    "img": "assset/images/magrigal.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "genero": "Romantacy",
     "editorial": "Planeta",
     "cantidad de libros": "5",
-    "img": "../assset/images/corteRosas.jpeg"
+    "img": "assset/images/corteRosas.jpeg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "genero": "Romantacy",
     "editorial": "Planeta",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/sangre.jpeg"
+    "img": "assset/images/sangre.jpeg"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "genero": "Romantacy",
     "editorial": "Planeta",
     "cantidad de libros": "a confirmar",
-    "img": "../assset/images/hierros.jpeg"
+    "img": "assset/images/hierros.jpeg"
   },
   {
     "id": 16,
